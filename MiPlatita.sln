@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiPlatita", "MiPlatita\MiPlatita.csproj", "{5852D201-D9F9-4EC1-9B3D-F86CCA3D38B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5852D201-D9F9-4EC1-9B3D-F86CCA3D38B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5852D201-D9F9-4EC1-9B3D-F86CCA3D38B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5852D201-D9F9-4EC1-9B3D-F86CCA3D38B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5852D201-D9F9-4EC1-9B3D-F86CCA3D38B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CAF8226-C543-45FE-B3BF-9E6A20413C5C}
+	EndGlobalSection
+EndGlobal

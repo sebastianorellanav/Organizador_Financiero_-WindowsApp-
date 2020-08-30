@@ -1,0 +1,14 @@
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\bin\Release\MiPlatita.exe.config
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\bin\Release\MiPlatita.exe
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\bin\Release\MiPlatita.pdb
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.csprojAssemblyReference.cache
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.FormAnadirGasto.resources
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.FormAnadirIngreso.resources
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.FormBienvenida.resources
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.FormDashboard.resources
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.FormTransacciones.resources
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.Properties.Resources.resources
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.csproj.GenerateResource.cache
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.csproj.CoreCompileInputs.cache
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.exe
+C:\Users\zevap\Desktop\Code\MiPlatita\MiPlatita\obj\Release\MiPlatita.pdb
